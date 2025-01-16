@@ -35,8 +35,8 @@ p {
 
 header {
   display: flex;
-  justify-content: space-between;
-  padding: 1rem;
+  justify-content: space-around;
+  border-bottom: 1px solid var(--accent);
 }
 .logo_section {
   display: flex;
@@ -94,13 +94,7 @@ header {
   z-index: 999;
 }
 
-.search_section button {
-  border: none;
-  padding: 10px;
-  cursor: pointer;
-  font-size: 16px;
-  outline: none;
-}
+
 .clear_btn {
   background-color: transparent;
   color: var(--primary);
@@ -114,5 +108,64 @@ header {
 
 .search_btn {
   background-color: var(--primary);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  outline: none;
+  user-select: none;
+}
+main{
+  /* background-image: url(./images/paisaje.jpg); */
+  display: flex;
+  align-items: flex-start;
+  padding: 2rem;
+  
+}
+.info_container{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+}
+.title_home{
+  font-size: 3rem;
+  max-width: 500px;
+
+}
+.text_home{
+  max-width: 400px;
+
+
+}
+.btn {
+  max-width: 150px;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: var(--primary);
+  color: var(--text); 
+  border: 2px solid var(--primary); 
+  font-size: 1.25rem;
+  display: inline-block;
+  white-space: nowrap;
+  outline: none;
+  box-shadow: 0 20px 80px -10px transparent;
+  transition: all 0.3s ease; 
+  user-select: none;
 }
 
+.btn:hover {
+  background-color: var(--background); 
+  color: var(--primary); 
+  box-shadow: 0 20px 80px -10px var(--primary);
+}
+.img_landscape {
+  width: 600px;
+  height: 500px;
+  position: absolute;
+  top: 0rem;
+  right: 0rem;
+  border-bottom-left-radius: 100%;
+  object-fit: cover;
+}
