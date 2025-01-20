@@ -6,12 +6,12 @@
     "cities": [
     {
     "name": "Sydney, Australia",
-    "imageUrl": "enter_your_image_for_sydney.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/499480344/photo/beautiful-sunset-in-sydney.jpg?s=612x612&w=0&k=20&c=Y4TpaPsuIY1Z7TTTsZvRMkBFtHRsqXGJZ63l-texZvs=",
     "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
     },
     {
     "name": "Melbourne, Australia",
-    "imageUrl": "enter_your_image_for_melbourne.jpg",
+    "imageUrl": "https://images.freeimages.com/images/large-previews/9a8/city-lights-1205366.jpg?fmt=webp&w=500",
     "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
     }
     ]
@@ -22,12 +22,12 @@
     "cities": [
     {
     "name": "Tokyo, Japan",
-    "imageUrl": "enter_your_image_for_tokyo.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/589095690/photo/view-of-tokyo-skyline-at-twilight.jpg?s=612x612&w=0&k=20&c=Ra0RifLmfHGhxsYl2ty3NSUkGEXj_mHd8CA4QTglbyQ=",
     "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
     },
     {
     "name": "Kyoto, Japan",
-    "imageUrl": "enter_your_image_for_kyoto.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/1078402492/photo/spring-gion-shirakawa.jpg?s=612x612&w=0&k=20&c=nWsSyRpf9MaEOKeCqibvVWkJsWYSIZ2qXzek_EAnUGE=",
     "description": "Known for its historic temples, gardens, and traditional tea houses."
     }
     ]
@@ -38,12 +38,12 @@
     "cities": [
     {
     "name": "Rio de Janeiro, Brazil",
-    "imageUrl": "enter_your_image_for_rio.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/534215078/photo/rio-de-janeiro-aerial.webp?b=1&s=612x612&w=0&k=20&c=7lB9L-XNEDP7yLFN7OReYgzi-40sItid9ROhUl6y594=",
     "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
     },
     {
     "name": "São Paulo, Brazil",
-    "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/819415518/photo/stayed-bridge-in-sao-paulo-brazil.jpg?s=612x612&w=0&k=20&c=itiCU3CM7t21pmi-VD5fgHvdBSvmDg-YvV9o3mF9Ba4=",
     "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
     }
     ]
@@ -53,13 +53,13 @@
     {
     "id": 1,
     "name": "Angkor Wat, Cambodia",
-    "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/944343802/photo/angkor-wat.jpg?s=612x612&w=0&k=20&c=9r6ChPWfgwIlBfgil5r5F5x2pe182Xh34W50ElgolFw=",
     "description": "A UNESCO World Heritage site and the largest religious monument in the world."
     },
     {
     "id": 2,
     "name": "Taj Mahal, India",
-    "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/1152168512/photo/taj-majal-at-sunrise-in-agra-india.jpg?s=612x612&w=0&k=20&c=e_9lEXEeQRq-6jOivmG44lVlZTL_tdrh8h46jClp660=",
     "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
     }
     ],
@@ -67,13 +67,13 @@
     {
     "id": 1,
     "name": "Bora Bora, French Polynesia",
-    "imageUrl": "enter_your_image_for_bora-bora.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/157480726/photo/dream-vacations-luxury-hotel-resort.jpg?s=612x612&w=0&k=20&c=Mvx8HbUZ4UE_bmn8U1lJ-kxqUYznngM9s4I58a8L1I8=",
     "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
     "id": 2,
     "name": "Copacabana Beach, Brazil",
-    "imageUrl": "enter_your_image_for_copacabana.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/1250523627/photo/copacabana-sidewalk-mosaic-and-palm-trees-in-rio-de-janeiro.jpg?s=612x612&w=0&k=20&c=1uViSrNHE0KwsXIo1SdXdkgAlMOiSMRIOGlbTH08wWU=",
     "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
     }
     ]
